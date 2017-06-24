@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lore's Blog</title><link href="http://lorecid.github.io/" rel="alternate"></link><link href="http://lorecid.github.io/feeds/all.atom.xml" rel="self"></link><id>http://lorecid.github.io/</id><updated>2017-06-24T00:00:00-04:00</updated><entry><title>Corn Cake Recipe</title><link href="http://lorecid.github.io/corn_cake.html" rel="alternate"></link><published>2017-06-24T00:00:00-04:00</published><updated>2017-06-24T00:00:00-04:00</updated><author><name>Lore Cid</name></author><id>tag:lorecid.github.io,2017-06-24:/corn_cake.html</id><summary type="html">&lt;p class="first last"&gt;Recipe for corn cake.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Ingredients:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;6 corns&lt;/li&gt;
+&lt;li&gt;1 can of sweetend milk&lt;/li&gt;
+&lt;li&gt;1 tspn of vanilla&lt;/li&gt;
+&lt;li&gt;6 eggs&lt;/li&gt;
+&lt;li&gt;2 tsp of room temperature butter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Blend all together and bake it for 20 mins. at 200℃.&lt;/p&gt;
+</content><category term="cooking"></category></entry></feed>
